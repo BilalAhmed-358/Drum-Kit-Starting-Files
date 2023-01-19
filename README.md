@@ -11,7 +11,7 @@ This project enables the user to create drum roll sounds via keyboard and mouse
 
 # Delpoyed link
 
-You can check out the deployed project at: [https://drumrollkit.netlify.app/](https://drumrollkit.netlify.app/)
+You can check out the deployed project at: <a href="https://drumrollkit.netlify.app/" target="_blank">https://drumrollkit.netlify.app/</a>
 
 # Screenshot
 ![Deployed Website Screenshot](/images/Screenshot.png)
